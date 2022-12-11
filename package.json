@@ -4,7 +4,7 @@
   "description": "Run `node app.js` in this directory to spin up a new server.",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {},
   "scripts": {
